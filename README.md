@@ -70,23 +70,3 @@ The course is divided into several chapters, each focusing on different aspects 
 
 Each chapter contains problem sets to test your understanding and to practice coding. The problem sets include various challenges and exercises relevant to the chapter's content.
 
-## Additional Resources
-
-- **[Download the Handbook (Scroll to the bottom of the page and navigate to Handbooks section)](https://www.codewithharry.com/notes)**
-- **[Download the Handwritten Notes](https://www.codewithharry.com/notes)**
-- **[Download the Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet/)**
-- **[Watch the Course Video](https://www.youtube.com/watch?v=aZb0iu4uGwA)**
-
-## How to Use This Repository
-
-1. **Clone the repository** to your local machine using:
-   ```sh
-   git clone https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course.git
-   ```
-2. **Navigate through the chapters** to find the relevant lessons and code examples.
-3. **Complete the problem sets** provided at the end of each chapter to solidify your understanding.
-4. **Work on the projects** to apply your knowledge in real-world scenarios.
-
----
-
-Feel free to explore each chapter and work through the exercises to reinforce your learning. Happy coding!
